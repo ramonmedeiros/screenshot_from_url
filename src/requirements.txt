@@ -45,7 +45,7 @@ python-magic==0.4.15
 pytz==2019.1
 PyWavelets==1.0.3
 requests==2.21.0
-rsa==4.0
+rsa==4.7
 scipy==1.2.1
 selenium==3.141.0
 six==1.12.0
